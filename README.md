@@ -1,4 +1,4 @@
- Hi there 👋
+Hey there 👋
 
 I'm David, a programmer based in Long Beach, California.
 
